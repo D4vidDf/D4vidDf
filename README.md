@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on GekkLab \n
+🔭 I’m currently working on GekkLab
+
 🌱 I’m currently learning SwiftUI
+
 📫 How to reach me: Twitter, Mail
