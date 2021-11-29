@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 🌱 I’m currently learning SwiftUI
 
 📫 How to reach me: Twitter, Mail
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=D4vidDf&theme=blue-green)
+
