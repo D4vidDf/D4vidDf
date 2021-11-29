@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me: Twitter, Mail
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=D4vidDf&theme=blue-green)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=D4vidDf&show_icons=true)
+
 
