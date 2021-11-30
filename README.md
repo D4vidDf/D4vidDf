@@ -1,6 +1,6 @@
 ![Imagen perfil](profile_photo-2.jpg)
 
-### Hi there 👋
+<h1 align=center>Hi there 👋</h1>
 
 <!--
 **D4vidDf/D4vidDf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on GekkLab
+<p align=center>🔭 I’m currently working on GekLab</p>
 
-🌱 I’m currently learning SwiftUI
+<p align=center>🌱 I’m currently learning SwiftUI</p>
 
-📫 How to reach me: Twitter, Mail
+<p align=center>📫 How to reach me: Twitter, Mail</p>
+
+<div align=center>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=D4vidDf&show_icons=true)
+
+</div>
+
 
 
