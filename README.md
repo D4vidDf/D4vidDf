@@ -1,4 +1,4 @@
-![Imagen perfil](profile_photo.jpg)
+![Imagen perfil](profile_photo-2.jpg)
 
 ### Hi there 👋
 
