@@ -19,7 +19,10 @@
     <img alt="Android" src="https://img.shields.io/badge/-Android-1a73e8?style=flat-square&logo=android&logoColor=white" />
     <img alt="iOS" src="https://img.shields.io/badge/-iOS-1a73e8?style=flat-square&logo=ios&logoColor=white" />
     <img alt="VSCODE" src="https://img.shields.io/badge/-Visual_Studio_Code-1a73e8?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    <img alt="visualstudio" src="https://img.shields.io/badge/-Visual_Studio-1a73e8?style=flat-square&logo=visualstudio˘&logoColor=white" />
+    <img alt="visualstudio" src="https://img.shields.io/badge/-Visual_Studio-1a73e8?style=flat-square&logo=visualstudio&logoColor=white" />
+    <img alt="flutter" src="https://img.shields.io/badge/-Flutter-1a73e8?style=flat-square&logo=flutter&logoColor=white" />
+    <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-1a73e8?style=flat-square&logo=kotlin&logoColor=white" />
+    <img alt="swift" src="https://img.shields.io/badge/-Swift-1a73e8?style=flat-square&logo=swift&logoColor=white" />
 </div>
 </br>
 <div align=center>
