@@ -31,6 +31,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=D4vidDf&show_icons=true&count_private=true&theme=dark&locale=es&border_radius=10&icon_color=f44uif)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=d4viddf&layout=compact&theme=dark&border_radius=10)
+
 </div>
 
 
