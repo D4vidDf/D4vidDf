@@ -27,7 +27,7 @@
 </br>
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=D4vidDf&show_icons=true&count_private=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=D4vidDf&show_icons=true&count_private=true&theme=dark)
 
 </div>
 
