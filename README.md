@@ -6,6 +6,7 @@
 <p align=center>📫 How to reach me: Twitter, Mail, WebPage</p>
 </br>
 <h2>Things I code with</h2>
+</br>
 <div align=center>
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-1a73e8?style=flat-square&logo=git&logoColor=white" />
@@ -24,6 +25,7 @@
     <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-1a73e8?style=flat-square&logo=kotlin&logoColor=white" />
     <img alt="swift" src="https://img.shields.io/badge/-Swift-1a73e8?style=flat-square&logo=swift&logoColor=white" />
 </div>
+</br>
 </br>
 <div align=center>
 
