@@ -27,7 +27,7 @@
 </br>
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=D4vidDf&show_icons=true&count_private=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=D4vidDf&show_icons=true&count_private=true&theme=dark&locale=es&border_radius=10&icon_color=f44uif)
 
 </div>
 
