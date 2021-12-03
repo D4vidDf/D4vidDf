@@ -1,11 +1,11 @@
 ![Imagen perfil](/resources/profile_photo-2.jpg)
-
-<h1 align=center>Hi there 👋</h1>
+</br>
+<h1 align=left>Hi there 👋</h1>
 <p align=center>🔭 I’m currently working on GekLab</p>
 <p align=center>📖 I’m currently learning Kotlin</p>
 <p align=center>📫 How to reach me: Twitter, Mail, WebPage</p>
 </br>
-<h2>Things I code with</h2>
+<h1>Things I code with</h1>
 </br>
 <div align=center>
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -27,13 +27,13 @@
 </div>
 </br>
 </br>
+<h1>My stats</h1>
 <div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=D4vidDf&show_icons=true&count_private=true&theme=dark&locale=es&border_radius=10&icon_color=f44uif)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=d4viddf&layout=compact&theme=dark&border_radius=10)
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=d4viddf&layout=compact&theme=dark&border_radius=10&locale=es)
 
 </div>
-
 
 
