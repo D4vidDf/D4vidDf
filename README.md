@@ -1,9 +1,8 @@
-![Imagen perfil](/resources/profile_photo-2.jpg)
 </br>
 <h1 align=left>Hi there 👋</h1>
 <p align=center>🔭 I’m currently working on GekLab</p>
 <p align=center>📖 I’m currently learning Kotlin</p>
-<p align=center>📫 How to reach me: Twitter, Mail, WebPage</p>
+<p align=center>📫 How to reach me: BlueSky, Mail, WebPage</p>
 </br>
 <h1>Things I code with</h1>
 </br>
