@@ -1,8 +1,8 @@
 </br>
-<h1 align=left>d4viddf</h1>
-<p align=center>I'm David, a 25 year old programmer that due to some halth issues i can only programm for only half an hour a day </p>
-<p align=center>My objective is to build tools that help us have a better life</p>
-<p align=center>Currently working on PillPal, a free medication reminder app that wants to help users not miss a dose</p>
+<h1 align=center>d4viddf</h1>
+<p align=center>I'm David, a 25 year old programmer that due to some halth issues i can only programm for only half an hour a day.</p>
+<p align=center>My objective is to build tools that help us have a better life.</p>
+<p align=center>Currently working on PillPal, a free medication reminder app that wants to help users not miss a dose.</p>
 </br>
 <h1>Things I code with</h1>
 </br>
@@ -25,4 +25,3 @@
     <img alt="swift" src="https://img.shields.io/badge/-Swift-1a73e8?style=flat-square&logo=swift&logoColor=white" />
 </div>
 </br>
-
