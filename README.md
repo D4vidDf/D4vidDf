@@ -1,8 +1,8 @@
 </br>
-<h1 align=left>Hi there 👋</h1>
-<p align=center>🔭 I’m currently working on GekLab</p>
-<p align=center>📖 I’m currently learning Kotlin</p>
-<p align=center>📫 How to reach me: BlueSky, Mail, WebPage</p>
+<h1 align=left>d4viddf</h1>
+<p align=center>I'm David, a 25 year old programmer that due to some halth issues i can only programm for only half an hour a day </p>
+<p align=center>My objective is to build tools that help us have a better life</p>
+<p align=center>Currently working on PillPal, a free medication reminder app that wants to help users not miss a dose</p>
 </br>
 <h1>Things I code with</h1>
 </br>
@@ -25,14 +25,4 @@
     <img alt="swift" src="https://img.shields.io/badge/-Swift-1a73e8?style=flat-square&logo=swift&logoColor=white" />
 </div>
 </br>
-</br>
-<h1>My stats</h1>
-<div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=D4vidDf&show_icons=true&count_private=true&theme=dark&locale=es&border_radius=10&icon_color=f44uif)
-    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=d4viddf&count_private=true&theme=dark&border_radius=10&locale=es&langs_count=10&layout=compact)
-
-</div>
-
 
